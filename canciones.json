@@ -16,6 +16,14 @@
         "lyric": "\"Don't go sharing your devotion\nLay all your love on me\"",
         "fecha": "2025-12-18"
     },
+    {
+        "name": "Lay all your love on me",
+        "artist": "ABBA",
+        "image": "imagenes/LAYLOM.png",
+        "url": "https://open.spotify.com/track/2245x0g1ft0HC7sf79zbYN?si=85dad22d86f84b55",
+        "lyric": "\"Don't go sharing your devotion\nLay all your love on me\"",
+        "fecha": "2025-12-19"
+    },
 
     {
         "name": "Siren Sounds(bonus)",
@@ -203,4 +211,5 @@
         "fecha": "2026-01-09"
     }
    
+
 ]
