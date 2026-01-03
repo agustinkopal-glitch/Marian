@@ -148,7 +148,7 @@
     {
         "name": "Super Trouper",
         "artist": "ABBA",
-        "image": "imagenes/SirenSounds.png",
+        "image": "imagenes/SuperTrouper.jpg",
         "url": "https://open.spotify.com/track/57DTKgkc3CjkUxg0urNl1u?si=69130765724a4feb",
         "lyric": "Me destruyo cuando la subiste a tu historia\nSiempre quiero estar en el publico",
         "fecha": "2026-01-03"
@@ -213,4 +213,5 @@
    
 
 ]
+
 
