@@ -218,10 +218,27 @@
         "url": "https://open.spotify.com/track/1026Aihn7HYsLjKjLHPid2?si=8454cbe89f7840ee",
         "lyric": "\"Y aunque te escondas\nSeguire tu sombra\nLo daria todo para ti\"",
         "fecha": "2026-01-10"
+    },
+
+    {
+        "name": "So american",
+        "artist": "Olivia Rodrigo",
+        "image": "imagenes/GutsDeluxe.png",
+        "url": "https://open.spotify.com/track/5Jh1i0no3vJ9u4deXkb4aV?si=c6d1abcca9ac4c21",
+        "lyric": "\"Oh, God, I'm gonna marry him\nIf he keeps this shit up\"",
+        "fecha": "2026-01-11"
+    },
+    {
+        "name": "Nonsense",
+        "artist": "Sabrina Carpenter",
+        "image": "imagenes/EICS.png",
+        "url": "https://open.spotify.com/track/6dgUya35uo964z7GZXM07g?si=21bd7e1e789440f8",
+        "lyric": "\"I don't want no one else\nBaby, I'm in too deep\"",
+        "fecha": "2026-01-12"
     }
-   
 
 ]
+
 
 
 
