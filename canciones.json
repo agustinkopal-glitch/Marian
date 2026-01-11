@@ -235,9 +235,18 @@
         "url": "https://open.spotify.com/track/6dgUya35uo964z7GZXM07g?si=21bd7e1e789440f8",
         "lyric": "\"I don't want no one else\nBaby, I'm in too deep\"",
         "fecha": "2026-01-12"
+    },
+    {
+        "name": "Lover",
+        "artist": "Taylor Swift",
+        "image": "imagenes/lover.jpg",
+        "url": "https://open.spotify.com/track/1dGr1c8CrMLDpV6mPbImSI?si=c357e5e4af724a72",
+        "lyric": "\"All's well that ends well to end up with you\nSwear to be overdramatic and true to my lover\"",
+        "fecha": "2026-01-13"
     }
 
 ]
+
 
 
 
