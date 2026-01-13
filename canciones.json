@@ -243,9 +243,44 @@
         "url": "https://open.spotify.com/track/1dGr1c8CrMLDpV6mPbImSI?si=c357e5e4af724a72",
         "lyric": "\"All's well that ends well to end up with you\nSwear to be overdramatic and true to my lover\"",
         "fecha": "2026-01-13"
+    },
+    {
+        "name": "Thinking Bout You",
+        "artist": "Ariana Grande",
+        "image": "imagenes/DG.png",
+        "url": "https://open.spotify.com/track/28tmK8wkE9y1UHdBKLd0nA?si=2fabaf9cba1d463f",
+        "lyric": "\"Got me losing my breath\nNobody got me the way that you did\"",
+        "fecha": "2026-01-14"
+    },
+    {
+        "name": "Billie Bossa Nova" ,
+        "artist": "Billie Eilish",
+        "image": "imagenes/HTE.png",
+        "url": "https://open.spotify.com/track/2KnuaZYoGzDoHiBTNYOTXG?si=5b7f593f7c3c4619",
+        "lyric": "\"there's somethin' 'bout the way you look tonight, mm\nMakes me wanna take a picture\nMake a movie with you that we'd have to hide\"",
+        "fecha": "2026-01-15"
+    },
+    {
+        "name": "HOT TO GO!" ,
+        "artist": "Chapell Roan",
+        "image": "imagenes/HTG.png",
+        "url": "https://open.spotify.com/track/4xdBrk0nFZaP54vvZj0yx7?si=eade8eacd8fb455e",
+        "lyric": "\"It's like a hundred ninety-nine degrees\nWhen you're doin' it with me, doin' it with me\"",
+        "fecha": "2026-01-16"
+    },
+    {
+        "name": "Die for you(Remix)" ,
+        "artist": "The Weeknd & Ariana Grande",
+        "image": "imagenes/DFY.png",
+        "url": "https://open.spotify.com/track/7oDd86yk8itslrA9HRP2ki?si=f3e130a961d74dfc",
+        "lyric": "\"Baby, I would die for you\"",
+        "fecha": "2026-01-17"
     }
+    
+    
 
 ]
+
 
 
 
