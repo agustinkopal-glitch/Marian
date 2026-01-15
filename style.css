@@ -102,14 +102,14 @@ button:active {
   font-style: normal;
 }
 
-#letra {
+.letra {
   font-size: 2rem;
   margin-bottom: 30px;
     color: #020202;
   white-space: pre-line;
 }
 
-#spotify_card {
+.spotify_card {
   display: block;
   margin: 0 auto;
   padding: 20px;
@@ -122,11 +122,11 @@ button:active {
   background-color: rgba(255, 255, 255, 0.957);;
 }
 
-#spotify_card:hover {
+.spotify_card:hover {
   transform: scale(1.03);
 }
 
-#spotify_img {
+.spotify_img {
   width: 100%;
   max-width: 250px;
   height: auto;
@@ -134,7 +134,7 @@ button:active {
   box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.2);
 }
 
-#spotify_info {
+.spotify_info {
   padding: 10px;
   color: #ffffff;
   text-align: left;
@@ -144,18 +144,18 @@ a {
   text-decoration: none;
 }
 
-#spotify_name {
+.spotify_name {
   font-size: 23px;
   font-weight: bold;
   color: #000000;
 }
 
-#spotify_artist {
+.spotify_artist {
   font-size: 19px;
   color: #000000;
 }
 
-#fecha {
+.fecha {
   font-size: 18px;
   margin-top: 20px;
   color: #000000;
@@ -173,7 +173,7 @@ a {
     inset -2px -2px rgb(158, 158, 158),
     inset 2px 2px #ffffff;
   font-size: 1.9rem;
-  margin-bottom: 10px;
+  margin-bottom: 30px;
   margin-top : 40px;
   padding-bottom: 30px;
   padding-top: 20px;
@@ -183,4 +183,20 @@ a {
   justify-content: center;
   align-items: center;
   text-align: center;
+}
+
+#botones {
+  display: flex;
+  justify-content: space-between;
+  padding : 2px;
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
+
+#prev {
+  font-size: 25px;
+}
+
+#next {
+  font-size: 25px;
 }
