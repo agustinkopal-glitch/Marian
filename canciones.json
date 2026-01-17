@@ -283,6 +283,33 @@
         "url": "https://open.spotify.com/track/1GwMQaZz6Au3QLDbjbMdme?si=d9af76990d93490b",
         "lyric": "\"I want to wear his initial on a chain 'round my neck\nNot because he owns me\nBut 'cause he really knows me\"",
         "fecha": "2026-01-18"
+    },
+
+    {
+        "name": "MONTERO(call me by your name)" ,
+        "artist": "Lil Nas X",
+        "image": "imagenes/Montero.png",
+        "url": "https://open.spotify.com/track/1GwMQaZz6Au3QLDbjbMdme?si=d9af76990d93490b",
+        "lyric": "\"Romantic talkin'? You don't even have to try\nYou're cute enough to fuck with me tonight\"",
+        "fecha": "2026-01-19"
+    },
+
+    {
+        "name": "Miss possessive" ,
+        "artist": "Tate Mcrae",
+        "image": "imagenes/SirenSounds.png",
+        "url": "https://open.spotify.com/track/4Q9ExJGFgL9Jd9kmYH3nXs?si=8e6ac24711564e41",
+        "lyric": "Vos sos mio",
+        "fecha": "2026-01-20"
+    },
+
+    {
+        "name": "MAMMAMIA" ,
+        "artist": "Maneskin",
+        "image": "imagenes/Mammamia.png",
+        "url": "https://open.spotify.com/track/7oJ3Nb3LIY1ond1fHF3xio?si=5c2b30b172e54a01",
+        "lyric": "\"Give me a command and I'll do what you ask\n'Cause my favourite music's your, \"Uh, uh\"\"",
+        "fecha": "2026-01-21"
     }
     
     
