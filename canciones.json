@@ -310,8 +310,41 @@
         "url": "https://open.spotify.com/track/7oJ3Nb3LIY1ond1fHF3xio?si=5c2b30b172e54a01",
         "lyric": "\"Give me a command and I'll do what you ask\n'Cause my favourite music's your, \"Uh, uh\"\"",
         "fecha": "2026-01-21"
+    },
+
+    {
+        "name": "Amarrame" ,
+        "artist": "Mon Laferte & Juanes",
+        "image": "imagenes/LaTrenza.png",
+        "url": "https://open.spotify.com/track/3EK4tGkSiO5xvvB5sM4tln?si=517c4e30efed45ed",
+        "lyric": "\"Ay, quiero ver tu perversión\nHasta dónde llegas\nHasta dónde me has llevado\"",
+        "fecha": "2026-01-22"
+    },
+
+    {
+        "name": "Make you mine" ,
+        "artist": "Madison Beer",
+        "image": "imagenes/Madison.png",
+        "url": "https://open.spotify.com/track/48vIfHaK7by6x0T6ucpODL?si=3cc52b45bd91480f",
+        "lyric": "\"I wanna feel the rush\nI wanna taste the crush, I wanna get you goin'\"",
+        "fecha": "2026-01-23"
+    },
+    {
+        "name": "The only exception" ,
+        "artist": "Paramore",
+        "image": "imagenes/TOE.png",
+        "url": "https://open.spotify.com/track/7JIuqL4ZqkpfGKQhYlrirs?si=4dd4ff237f464783",
+        "lyric": "\"And up until now, I had sworn\nTo myself that I'm content with loneliness\nBecause none of it was ever worth the risk\nWell, you are the only exception\"",
+        "fecha": "2026-01-24"
+    },
+    {
+        "name": "Opalite" ,
+        "artist": "Taylor Swift",
+        "image": "imagenes/TLOAS.png",
+        "url": "https://open.spotify.com/track/3yWuTOYDztXjZxdE2cIRUa?si=9c399b39e8574264",
+        "lyric": "\"Oh, my Lord\nNever met no one like you before\"",
+        "fecha": "2026-01-25"
     }
-    
     
 
 ]
