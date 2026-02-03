@@ -423,6 +423,14 @@
         "url": "https://open.spotify.com/track/5LZtB6nxvjIhUoElp3Zqk0?si=f8242a85857145e2",
         "lyric": "\"Just draw a map for me\nLaced with strawberries\nAnd I'll get on my knees\"",
         "fecha": "2026-02-03"
+    },
+    {
+        "name": "LoveGame",
+        "artist": "Lady Gaga",
+        "image": "imagenes/lovegame.jpg",
+        "url": "https://open.spotify.com/track/0eH2eHURaXUP15D8gQlfjx?si=abf7816f79394a1e",
+        "lyric": "\"I'm on a mission\nAnd it involves some heavy touching, yeah\"",
+        "fecha": "2026-02-04"
     }
 
 ]
