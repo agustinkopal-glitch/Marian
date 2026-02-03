@@ -344,8 +344,86 @@
         "url": "https://open.spotify.com/track/3yWuTOYDztXjZxdE2cIRUa?si=9c399b39e8574264",
         "lyric": "\"Oh, my Lord\nNever met no one like you before\"",
         "fecha": "2026-01-25"
+    },
+
+     {
+        "name": "The boy is mine" ,
+        "artist": "Ariana Grande",
+        "image": "imagenes/ES.png",
+        "url": "https://open.spotify.com/track/0Lmbke3KNVFXtoH2mMSHCw?si=2d57536de0fc45bf",
+        "lyric": "Sos mio",
+        "fecha": "2026-01-26"
+    },
+
+    {
+        "name": "I belong in your arms" ,
+        "artist": "Chairlift",
+        "image": "imagenes/IBIYA.jpg",
+        "url": "https://open.spotify.com/track/0aqRkWPAL9BGCvvdSiXaE9?si=c276f019a6964e51",
+        "lyric": "\"Feelings are good, nothing to say\nJust want my head on your shoulder\"",
+        "fecha": "2026-01-27"
+    },
+
+    {
+        "name": "Oxytocin" ,
+        "artist": "Billie Eilish",
+        "image": "imagenes/HTE.png",
+        "url": "https://open.spotify.com/track/4t2OeILB07eMGTXSUbMPEu?si=d3b279a776924325",
+        "lyric": "\"Can't take it back once it's been set in motion\nYou know I need you for the oxytocin\"",
+        "fecha": "2026-01-28"
+    },
+
+    {
+        "name": "Into it" ,
+        "artist": "Camila Cabello",
+        "image": "imagenes/camila.png",
+        "url": "https://open.spotify.com/track/2gxqozTaq2NYylvS8jd57G?si=3de9895c62b84db5",
+        "lyric": "\"The gravity can't hold us, your hands are outer space\"",
+        "fecha": "2026-01-29"
+    },
+
+    {
+        "name": "This song" ,
+        "artist": "Conan Gray",
+        "image": "imagenes/Wishbone.png",
+        "url": "https://open.spotify.com/track/2k6FKrR0wDIs6xCtU51GZ7?si=1c0312ee08174819",
+        "lyric": "\"We drive through the suburbs\nAnd you're playin' all of your favorite songs\"",
+        "fecha": "2026-01-30"
+    },
+
+    {
+        "name": "Thinking ’Bout You",
+        "artist": "Dua Lipa",
+        "image": "imagenes/dua.png",
+        "url": "https://open.spotify.com/track/0gtSPYz0OHoF7k09Auq1uC?si=ab23fec396c24fd1",
+        "lyric": "\"I can't get high, I can't get by, I can't get through\nI can't stop thinking 'bout you\"",
+        "fecha": "2026-01-31"
+    },
+
+    {
+        "name": "Adore you",
+        "artist": "Harry Styles",
+        "image": "imagenes/dua.png",
+        "url": "https://open.spotify.com/track/3jjujdWJ72nww5eGnfs2E7?si=b28f1edc8a314b9f",
+        "lyric": "\"I'd walk through fire for you\nJust let me adore you\nLike it's the only thing I'll ever do\"",
+        "fecha": "2026-02-01"
+    },
+    {
+        "name": "Snow on the beach",
+        "artist": "Taylor Swift",
+        "image": "imagenes/midnights.png",
+        "url": "https://open.spotify.com/track/1wtOxkiel43cVs0Yux5Q4h?si=11baaa7848344444",
+        "lyric": "\"My smile is like I won a contest\nAnd to hide that would be so dishonest\"",
+        "fecha": "2026-02-02"
+    },
+    {
+        "name": "Teach me how to love",
+        "artist": "Shawn Mendes",
+        "image": "imagenes/wonder.png",
+        "url": "https://open.spotify.com/track/5LZtB6nxvjIhUoElp3Zqk0?si=f8242a85857145e2",
+        "lyric": "\"Just draw a map for me\nLaced with strawberries\nAnd I'll get on my knees\"",
+        "fecha": "2026-02-03"
     }
-    
 
 ]
 
