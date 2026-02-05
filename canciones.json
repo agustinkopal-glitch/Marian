@@ -447,6 +447,14 @@
         "url": "https://open.spotify.com/track/0B7tnohfi83RQquo2JRHrL?si=68db6e9e2e4340a2",
         "lyric": "\"I just want your two hands on me\nAt all times, baby\"",
         "fecha": "2026-02-06"
+    },
+    {
+        "name": "Juno",
+        "artist": "Sabrina Carpenter",
+        "image": "imagenes/SAS.png",
+        "url": "https://open.spotify.com/track/21B4gaTWnTkuSh77iWEXdS?si=bbf1b99becd94a42",
+        "lyric": "\"Adore me\nHold me and explore me\nMark your territory\nTell me I'm the only, only, only, only one\"",
+        "fecha": "2026-02-07"
     }
 
 ]
