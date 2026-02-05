@@ -431,6 +431,14 @@
         "url": "https://open.spotify.com/track/0eH2eHURaXUP15D8gQlfjx?si=abf7816f79394a1e",
         "lyric": "\"I'm on a mission\nAnd it involves some heavy touching, yeah\"",
         "fecha": "2026-02-04"
+    },
+    {
+        "name": "Dream as one",
+        "artist": "Miley Cyrus",
+        "image": "imagenes/avatar.png",
+        "url": "https://open.spotify.com/track/0OY2nTgPGvyOS3MR1hJES3?si=490ea9a86f8344bf",
+        "lyric": "\"’Cause you are my home\nNo matter where I go\"",
+        "fecha": "2026-02-05"
     }
 
 ]
