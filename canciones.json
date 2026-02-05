@@ -439,6 +439,14 @@
         "url": "https://open.spotify.com/track/0OY2nTgPGvyOS3MR1hJES3?si=490ea9a86f8344bf",
         "lyric": "\"’Cause you are my home\nNo matter where I go\"",
         "fecha": "2026-02-05"
+    },
+    {
+        "name": "2 hands",
+        "artist": "Tate Mcrae",
+        "image": "imagenes/SirenSounds.png",
+        "url": "https://open.spotify.com/track/0B7tnohfi83RQquo2JRHrL?si=68db6e9e2e4340a2",
+        "lyric": "\"I just want your two hands on me\nAt all times, baby\"",
+        "fecha": "2026-02-06"
     }
 
 ]
