@@ -455,6 +455,14 @@
         "url": "https://open.spotify.com/track/21B4gaTWnTkuSh77iWEXdS?si=bbf1b99becd94a42",
         "lyric": "\"Adore me\nHold me and explore me\nMark your territory\nTell me I'm the only, only, only, only one\"",
         "fecha": "2026-02-07"
+    },
+     {
+        "name": "Wood",
+        "artist": "Taylor Swift",
+        "image": "imagenes/TLOAS.png",
+        "url": "https://open.spotify.com/track/5ylJtmaWPJ33cW3En7WOu0?si=498481152ec041b0",
+        "lyric": "\"It's you and me forever dancing in the dark\nAll over me, it's understood, I ain't got to knock on wood\"",
+        "fecha": "2026-02-08"
     }
 
 ]
