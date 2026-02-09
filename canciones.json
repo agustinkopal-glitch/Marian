@@ -463,6 +463,14 @@
         "url": "https://open.spotify.com/track/5ylJtmaWPJ33cW3En7WOu0?si=498481152ec041b0",
         "lyric": "\"It's you and me forever dancing in the dark\nAll over me, it's understood, I ain't got to knock on wood\"",
         "fecha": "2026-02-08"
+    },
+    {
+        "name": "G.U.Y",
+        "artist": "Lady Gaga",
+        "image": "imagenes/artpop.png",
+        "url": "https://open.spotify.com/track/4rYLpaNFzt6pkQnrCvVHUw?si=b358b4a872e04a72",
+        "lyric": "\"I just want it to be hot\nBecause I'm best when I'm in love, and I'm in love with you\"",
+        "fecha": "2026-02-09"
     }
 
 ]
