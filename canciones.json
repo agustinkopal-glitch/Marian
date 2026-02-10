@@ -471,7 +471,24 @@
         "url": "https://open.spotify.com/track/4rYLpaNFzt6pkQnrCvVHUw?si=b358b4a872e04a72",
         "lyric": "\"I just want it to be hot\nBecause I'm best when I'm in love, and I'm in love with you\"",
         "fecha": "2026-02-09"
+    },
+    {
+        "name": "Hands to myself",
+        "artist": "Selena Gomez",
+        "image": "imagenes/h2m.png",
+        "url": "https://open.spotify.com/track/3CJvmtWw2bJsudbAC5uCQk?si=40f6154fb08c4b40",
+        "lyric": "\"Can't keep my hands to myself\nI mean, I could, but why would I want to?\"",
+        "fecha": "2026-02-10"
+    },
+    {
+        "name": "Moment in the sun",
+        "artist": "Sunflower Bean",
+        "image": "imagenes/momentinthesun.png",
+        "url": "https://open.spotify.com/track/7bQjQdlz5c0YSzcc97VAtG?si=701c0fc6e4da4918",
+        "lyric": "\"I don't need money, I don't need to be cool\nI'd trade it for a moment in the sun with you\"",
+        "fecha": "2026-02-11"
     }
+    
 
 ]
 
