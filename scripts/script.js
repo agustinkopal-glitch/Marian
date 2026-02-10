@@ -8,11 +8,16 @@ fetch("./canciones.json")
     canciones = data;
 
     const hoy = new Date();
+    hoy.setHours(0, 0, 0, 0);
     const hoyStr = hoy.toISOString().split("T")[0];
 
     currentIndex = canciones.findIndex(c => c.fecha === hoyStr);
-    historyIndex = canciones.length - 1;
-    const lastIndex = canciones.length - 1;
+    let reemplazo = canciones.length - 1
+    while (
+      reemplazo >= 0 &&
+      canciones[reemplazo].fecha > hoyStr) {
+        reemplazo--;
+    }
 
     if (currentIndex === -1) {
       const random = Math.floor(Math.random() * canciones.length);
