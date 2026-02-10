@@ -11,11 +11,15 @@ fetch("./canciones.json")
     const hoyStr = hoy.toISOString().split("T")[0];
 
     currentIndex = canciones.findIndex(c => c.fecha === hoyStr);
-    historyIndex = currentIndex - 1;
+    historyIndex = canciones.length - 1;
+    const lastIndex = canciones.length - 1;
 
-    if (currentIndex === -1) return;
-
-    const c = canciones[currentIndex];
+    if (currentIndex === -1) {
+      const random = Math.floor(Math.random() * canciones.length);
+      c = canciones[random];
+    }  else {
+      c = canciones[currentIndex];
+  }
 
     // días juntos
     const inicio = new Date("2025-12-07");
@@ -50,14 +54,14 @@ openCointainer.addEventListener("click", () => {
 document.getElementById("prev").addEventListener("click", () => {
   if (historyIndex > 0) {
     historyIndex--;
-     }
-  else historyIndex = currentIndex - 1;
+  }
+  else historyIndex = canciones.length- 1;
   renderHistory();
  
 });
 
 document.getElementById("next").addEventListener("click", () => {
-  if (historyIndex < currentIndex - 1) {
+  if (historyIndex < canciones.length - 1) {
     historyIndex++;
   }
   else historyIndex = 0;
