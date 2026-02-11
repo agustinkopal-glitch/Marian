@@ -15,9 +15,10 @@ fetch("./canciones.json")
     let reemplazo = canciones.length - 1
     while (
       reemplazo >= 0 &&
-      canciones[reemplazo].fecha > hoyStr) {
+      canciones[reemplazo].fecha >= hoyStr) {
         reemplazo--;
     }
+    historyIndex = reemplazo;
 
     if (currentIndex === -1) {
       const random = Math.floor(Math.random() * canciones.length);
@@ -57,18 +58,18 @@ openCointainer.addEventListener("click", () => {
 });
 
 document.getElementById("prev").addEventListener("click", () => {
-  if (historyIndex > 0) {
-    historyIndex--;
-  }
-  else historyIndex = canciones.length- 1;
+  if (historyIndex > 0) historyIndex--;
+  else historyIndex = reemplazo;
   renderHistory();
  
 });
 
 document.getElementById("next").addEventListener("click", () => {
-  if (historyIndex < canciones.length - 1) {
+  let reemplazo = canciones.length - 1
+  if (historyIndex < canciones.length - 1 && historyIndex < reemplazo - 1) {
     historyIndex++;
   }
+
   else historyIndex = 0;
   renderHistory();
 });
