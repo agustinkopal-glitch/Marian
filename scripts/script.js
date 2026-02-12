@@ -1,6 +1,7 @@
 let canciones = [];
 let currentIndex = 0;
 let historyIndex = 0;
+let reemplazo = 0;
 
 fetch("./canciones.json")
   .then(res => res.json())
@@ -12,7 +13,7 @@ fetch("./canciones.json")
     const hoyStr = hoy.toISOString().split("T")[0];
 
     currentIndex = canciones.findIndex(c => c.fecha === hoyStr);
-    let reemplazo = canciones.length - 1
+    reemplazo = canciones.length - 1
     while (
       reemplazo >= 0 &&
       canciones[reemplazo].fecha >= hoyStr) {
@@ -58,10 +59,11 @@ openCointainer.addEventListener("click", () => {
 });
 
 document.getElementById("prev").addEventListener("click", () => {
+  console.log("ANTES:", historyIndex);
   if (historyIndex > 0) historyIndex--;
   else historyIndex = reemplazo;
+  console.log("DESPUÉS:", historyIndex);
   renderHistory();
- 
 });
 
 document.getElementById("next").addEventListener("click", () => {
