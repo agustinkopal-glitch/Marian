@@ -479,6 +479,14 @@
         "url": "https://open.spotify.com/track/3CJvmtWw2bJsudbAC5uCQk?si=40f6154fb08c4b40",
         "lyric": "\"I don't need money, I don't need to be cool\nI'd trade it for a moment in the sun with you\"",
         "fecha": "2026-02-11"
+    },
+    {
+        "name": "Acaramelao",
+        "artist": "Maria Becerra",
+        "image": "imagenes/animal.png",
+        "url": "https://open.spotify.com/track/4fipVdNyG6zx7nxuqHScsy?si=abd47b29c2284bae",
+        "lyric": "ahre que le dedicaba pero igual si",
+        "fecha": "2026-02-13"
     }
 
 ]
