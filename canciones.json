@@ -487,7 +487,27 @@
         "url": "https://open.spotify.com/track/4fipVdNyG6zx7nxuqHScsy?si=abd47b29c2284bae",
         "lyric": "ahre que le dedicaba pero igual si",
         "fecha": "2026-02-13"
+    },
+
+    {
+        "name": "Dead girl walking",
+        "artist": "Barrett Wilbert Weed & Ryan McCartan",
+        "image": "imagenes/heathers.png",
+        "url": "https://open.spotify.com/track/5L5N8YOsBxdzR9h9sudBgG?si=ae131c6e64564cd8",
+        "lyric": "\"You're my last meal on death row\nShut your mouth and lose them tighty-whities\"",
+        "fecha": "2026-02-26"
+    },
+
+    {
+        "name": "Vanish into you",
+        "artist": "Lady Gaga",
+        "image": "imagenes/mayhem.png",
+        "url": "https://open.spotify.com/track/5IoPnNiYAOvHHJpz13wzRL?si=6051bf6472ee4610",
+        "lyric": "\"Can I vanish into you?\"",
+        "fecha": "2026-02-26"
     }
+
+
 
 ]
 
