@@ -528,10 +528,19 @@
     {
         "name": "I Do, I Do, I Do, I Do, I Do",
         "artist": "ABBA",
-        "image": "imagenes/1989.png",
+        "image": "imagenes/abbaabba.png",
         "url": "https://open.spotify.com/track/0x5BKBAcia1th7UzcoHnD1?si=c2766e6dded84c1a",
         "lyric": "\"Oh, I've been dreaming through my lonely past\nNow I just made it, I found you at last\"",
         "fecha": "2026-03-02"
+    },
+
+    {
+        "name": "Did I mention?",
+        "artist": "Jeff Lewis & Mitchell Hope",
+        "image": "imagenes/descendientes1.png",
+        "url": "https://open.spotify.com/track/1YekSxsAlGlYvm9zjLsKdh?si=375afd7a1a5a49f4",
+        "lyric": "\"You're gonna show me that you're only ever gonna be mine\nDon't wanna go another minute livin' without you\"",
+        "fecha": "2026-03-03"
     }
 
 
