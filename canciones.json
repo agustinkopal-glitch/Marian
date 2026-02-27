@@ -504,7 +504,34 @@
         "image": "imagenes/mayhem.png",
         "url": "https://open.spotify.com/track/5IoPnNiYAOvHHJpz13wzRL?si=6051bf6472ee4610",
         "lyric": "\"Can I vanish into you?\"",
-        "fecha": "2026-02-26"
+        "fecha": "2026-02-27"
+    },
+
+    {
+        "name": "Purple lace bra",
+        "artist": "Tate Mcrae",
+        "image": "imagenes/SirenSounds.png",
+        "url": "https://open.spotify.com/track/2bqLj0NvdtGbPCl9PdBtP2?si=442af23214044dc0",
+        "lyric": "Esta fue la primera cancion que escuche por recomendacion tuya",
+        "fecha": "2026-02-28"
+    },
+
+    {
+        "name": "New Romantics",
+        "artist": "Taylor Swift",
+        "image": "imagenes/1989.png",
+        "url": "https://open.spotify.com/track/2vPMoMDXxu9uX1igWZmXSG?si=192635e55a0240bd",
+        "lyric": "\"And evеry day is like a battle\nBut evеry night with us is like a dream\"",
+        "fecha": "2026-03-01"
+    },
+
+    {
+        "name": "I Do, I Do, I Do, I Do, I Do",
+        "artist": "ABBA",
+        "image": "imagenes/1989.png",
+        "url": "https://open.spotify.com/track/0x5BKBAcia1th7UzcoHnD1?si=c2766e6dded84c1a",
+        "lyric": "\"Oh, I've been dreaming through my lonely past\nNow I just made it, I found you at last\"",
+        "fecha": "2026-03-02"
     }
 
 
